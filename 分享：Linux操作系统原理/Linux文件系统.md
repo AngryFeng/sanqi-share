@@ -439,3 +439,22 @@ VFS调用接口操作&管理文件
 
 #### 5.2.3 用户程序操作文件
 
+
+
+
+
+
+
+## 结尾
+
+参考资料url
+
+https://ipads.se.sjtu.edu.cn/ospi/
+
+https://ycnw11in464y.feishu.cn/file/IO2QbAiMFo0XnWx0lqyc9DaunBe
+
+https://ycnw11in464y.feishu.cn/file/SXm8bcUrIobU3bxLWY4cpmn7n66
+
+https://ipads.se.sjtu.edu.cn/courses/os/2020/slides/OS-12-fs.pdf
+
+https://blog.csdn.net/cywosp/article/details/38965239
